@@ -36,4 +36,33 @@ Remember that the data you choose to work with must be linked to the report you 
 
 Kaggle is a good source of data and inspiration. You may find it helpful to browse through the competition catalog: https://www.kaggle.com/competitions Links to an external site..
 
-Creating your own data set is also an idea. Perhaps using a web scraper? Beautiful Soup and Scrapy are excellent libraries for this: https://beautiful-soup-4.readthedocs.io/en/latest/ Links to an external site., https://scrapy.org/ Links to an external site..
+Creating your own data set is also an idea. Perhaps using a web scraper? Beautiful Soup and Scrapy are excellent libraries for this: 
+https://beautiful-soup-4.readthedocs.io/en/latest/ , 
+https://scrapy.org/ 
+
+Housing prices [Kaggle tutorial competition]
+"With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home."
+
+Link: House Prices: Advanced Regression Techniques. See also: Housing Prices Competition for Kaggle Learn Users.
+
+Note: The problem studied in this competition is similar to what you did in assignment 1. You should use what you learned there if you choose this data set. Also, note that you will find detailed tutorials on Kaggle as this is a “tutorial competition”.
+
+ 
+
+Customer Revenue Prediction [Kaggle Competition]
+"Predict how much GStore customers will spend"
+Link: Google Analytics Customer Revenue Prediction
+"[...] demonstrate the business impact that thorough data analysis can have"
+
+Box Office Prediction  [Kaggle Competition]
+"Can you predict a movie's worldwide box office revenue?"
+Link: TMDB Box Office Prediction
+
+Store Sales - Time Series Forecasting [Kaggle Competition]
+"Use machine learning to predict grocery sales."
+Link: https://www.kaggle.com/competitions/store-sales-time-series-forecastingLinks to an external site.
+
+Note: This is a forecasting task, something you may be unfamiliar with (but no time like the present to learn!).
+
+How to submit
+Submit a link to your GitHub repo here on Canvas. (If your repo is private, remember to invite me as a collaborator).
